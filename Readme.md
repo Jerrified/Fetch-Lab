@@ -3,4 +3,4 @@
 
 # JavaScript-Fetch
 
-Please refer to the [Fetch Lab](Fetchlesson-lab.md).
+Please refer to the [Fetch Lab](Fetch-lesson-lab.md).

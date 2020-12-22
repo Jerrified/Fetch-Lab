@@ -1,0 +1,12 @@
+body { 
+    background: linear-gradient(to right, #02f3f700, #00f2ff0a); 
+    color: #fff;
+   }
+   #text { 
+    font-size: 40px; 
+    font-weight: bold;
+   }
+   .author {
+    font-weight: normal;
+    font-size: 20px
+   }

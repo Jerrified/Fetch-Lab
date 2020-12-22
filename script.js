@@ -1,13 +1,20 @@
 // -------------------
 // Fetch Functions
 // -------------------
-fetch('https://rickandmortyapi.com/api')
-
+fetch("https://type.fit/api/quotes")
 
 
 // -----------
 // Button
 // -----------
+let btn = document.createElement('button');
+btn.innerHTML = 'Click for a new Rick and Morty character!';
+document.body.appendChild(btn);
+
+
+// --------------
+// Button Function
+// ---------------
 
 
 
